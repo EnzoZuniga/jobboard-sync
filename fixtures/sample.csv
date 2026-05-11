@@ -1,0 +1,4 @@
+id,title,company,location,remote,contract,salary_min,salary_max,currency,posted_at,url
+job-001,Développeur Full Stack,Acme Corp,Paris,false,CDI,45000,60000,EUR,2024-01-15T10:00:00Z,https://acme.com/jobs/001
+job-002,Data Engineer,TechCo,Lyon,true,CDI,50000,70000,EUR,2024-01-16T09:30:00Z,https://techco.com/jobs/002
+job-003,Product Designer,StartupXYZ,Remote,true,freelance,,,EUR,2024-01-17T14:00:00Z,https://startupxyz.com/jobs/003

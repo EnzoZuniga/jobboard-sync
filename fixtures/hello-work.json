@@ -1,0 +1,35 @@
+{
+  "resultats": [
+    {
+      "offerId": "hw-001",
+      "intitule": "Développeur Backend",
+      "entreprise": {
+        "nom": "BigTech SA"
+      },
+      "lieuTravail": {
+        "libelle": "Toulouse"
+      },
+      "typeContrat": "CDI",
+      "salaire": {
+        "min": 40000,
+        "max": 55000
+      },
+      "dateCreation": "2024-01-20T08:00:00Z",
+      "origineOffre": {
+        "urlOrigine": "https://bigtech.fr/jobs/hw-001"
+      }
+    },
+    {
+      "offerId": "hw-002",
+      "intitule": "Chef de projet IT",
+      "entreprise": {
+        "nom": "Consulting Partners"
+      },
+      "lieuTravail": {
+        "libelle": "Paris"
+      },
+      "typeContrat": "CDD",
+      "dateCreation": "2024-01-21T10:30:00Z"
+    }
+  ]
+}

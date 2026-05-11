@@ -1,0 +1,27 @@
+{
+  "jobs": [
+    {
+      "_id": "fw-001",
+      "name": "DevOps Engineer",
+      "company": "CloudScale",
+      "city": "Bordeaux",
+      "isRemote": true,
+      "contract_type": "freelance",
+      "min_salary": 500,
+      "max_salary": 700,
+      "published_date": "2024-01-22T12:00:00Z",
+      "apply_url": "https://cloudscale.io/jobs/fw-001"
+    },
+    {
+      "_id": "fw-002",
+      "name": "Frontend Developer",
+      "company": "WebAgency",
+      "city": "Nantes",
+      "isRemote": false,
+      "contract_type": "cdi",
+      "min_salary": 38000,
+      "max_salary": 48000,
+      "published_date": "2024-01-23T09:00:00Z"
+    }
+  ]
+}
